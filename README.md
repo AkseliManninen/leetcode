@@ -4,9 +4,9 @@
 
 (Updated 27.10.2024)
 
-Easy: /831
+Easy: 16/831
 
-Medium: /1746
+Medium: 4/1746
 
 Hard: 0/760
 
@@ -16,9 +16,12 @@ All: 20/3337
 
 ## Medium
 
-'0011. Container With Most Water
-'151. Reverse Words in a String
-'0443. String Compression
-'1456. Maximum Number of Vowels in a Substring of Given Length
+0011 Container With Most Water
+
+151 Reverse Words in a String
+
+0443 String Compression'
+
+1456 Maximum Number of Vowels in a Substring of Given Length
 
 ## Hard

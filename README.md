@@ -2,9 +2,9 @@
 
 ## Solved problems
 
-(Updated 27.10.2024)
+(Updated 29.10.2024)
 
-Easy: 16/831
+Easy: 17/831
 
 Medium: 4/1746
 
@@ -29,6 +29,8 @@ All: 20/3337
 771 Jewels and Stones
 
 1108 Defanging an IP Address
+
+1207 Unique Number of Occurrences
 
 1732 Find the Highest Altitude
 

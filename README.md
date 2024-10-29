@@ -4,7 +4,7 @@
 
 (Updated 29.10.2024)
 
-Easy: 17/831
+Easy: 18/831
 
 Medium: 4/1746
 
@@ -27,6 +27,8 @@ All: 20/3337
 724 Find Pivot Index
 
 771 Jewels and Stones
+
+872 Leaf-Similar Trees
 
 1108 Defanging an IP Address
 

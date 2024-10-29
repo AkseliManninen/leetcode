@@ -56,7 +56,7 @@ All: 20/3337
 
 151 Reverse Words in a String
 
-443 String Compression'
+443 String Compression
 
 1456 Maximum Number of Vowels in a Substring of Given Length
 

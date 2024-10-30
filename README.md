@@ -2,9 +2,9 @@
 
 ## Solved problems
 
-(Updated 29.10.2024)
+(Updated 30.10.2024)
 
-Easy: 18/831
+Easy: 19/831
 
 Medium: 4/1746
 
@@ -17,6 +17,8 @@ All: 20/3337
 28 Find the Index of the First Occurrence in a String
 
 94 Binary Tree Inorder Traversal
+
+136 Single Number
 
 283 Move Zeroes
 

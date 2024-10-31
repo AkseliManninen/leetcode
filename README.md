@@ -2,9 +2,9 @@
 
 ## Solved problems
 
-(Updated 30.10.2024)
+(Updated 31.10.2024)
 
-Easy: 19/831
+Easy: 20/831
 
 Medium: 4/1746
 
@@ -21,6 +21,8 @@ All: 20/3337
 136 Single Number
 
 283 Move Zeroes
+
+374 Guess Number Higher or Lower
 
 392 Is Subsequence
 

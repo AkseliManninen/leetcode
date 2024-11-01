@@ -2,11 +2,11 @@
 
 ## Solved problems
 
-(Updated 31.10.2024)
+(Updated 1.11.2024)
 
 Easy: 20/831
 
-Medium: 5/1746
+Medium: 6/1746
 
 Hard: 0/760
 
@@ -33,6 +33,8 @@ All: 20/3337
 771 Jewels and Stones
 
 872 Leaf-Similar Trees
+
+1004 Max Consecutive Ones III
 
 1108 Defanging an IP Address
 

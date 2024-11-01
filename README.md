@@ -6,7 +6,7 @@
 
 Easy: 20/831
 
-Medium: 4/1746
+Medium: 5/1746
 
 Hard: 0/760
 
@@ -63,5 +63,7 @@ All: 20/3337
 443 String Compression
 
 1456 Maximum Number of Vowels in a Substring of Given Length
+
+1679 Max Number of K-Sum Pairs
 
 ## Hard

@@ -2,9 +2,9 @@
 
 ## Solved problems
 
-(Updated 1.11.2024)
+(Updated 2.11.2024)
 
-Easy: 20/831
+Easy: 21/831
 
 Medium: 6/1746
 
@@ -37,6 +37,8 @@ All: 20/3337
 1004 Max Consecutive Ones III
 
 1108 Defanging an IP Address
+
+1137 N-th Tribonacci Number
 
 1207 Unique Number of Occurrences
 

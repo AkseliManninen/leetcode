@@ -6,11 +6,11 @@
 
 Easy: 21/831
 
-Medium: 6/1746
+Medium: 7/1746
 
 Hard: 0/760
 
-All: 20/3337
+All: 28/3337
 
 ## Easy
 
@@ -33,8 +33,6 @@ All: 20/3337
 771 Jewels and Stones
 
 872 Leaf-Similar Trees
-
-1004 Max Consecutive Ones III
 
 1108 Defanging an IP Address
 
@@ -64,7 +62,11 @@ All: 20/3337
 
 151 Reverse Words in a String
 
+198 House Robber
+
 443 String Compression
+
+1004 Max Consecutive Ones III
 
 1456 Maximum Number of Vowels in a Substring of Given Length
 

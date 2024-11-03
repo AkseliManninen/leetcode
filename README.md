@@ -6,11 +6,11 @@
 
 Easy: 22/831
 
-Medium: 8/1746
+Medium: 9/1746
 
 Hard: 0/760
 
-All: 30/3337
+All: 31/3337
 
 ## Easy
 
@@ -21,6 +21,8 @@ All: 30/3337
 136 Single Number
 
 283 Move Zeroes
+
+0334 Increasing Triplet Subsequence
 
 374 Guess Number Higher or Lower
 

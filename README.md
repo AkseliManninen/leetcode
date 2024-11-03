@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 2.11.2024)
+(Updated 3.11.2024)
 
-Easy: 21/831
+Easy: 22/831
 
 Medium: 8/1746
 
 Hard: 0/760
 
-All: 29/3337
+All: 30/3337
 
 ## Easy
 
@@ -33,6 +33,8 @@ All: 29/3337
 771 Jewels and Stones
 
 872 Leaf-Similar Trees
+
+1071 Greatest Common Divisor of Strings
 
 1108 Defanging an IP Address
 

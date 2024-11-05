@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 3.11.2024)
+(Updated 5.11.2024)
 
 Easy: 22/831
 
-Medium: 9/1746
+Medium: 10/1746
 
 Hard: 0/760
 
-All: 31/3337
+All: 32/3337
 
 ## Easy
 
@@ -75,6 +75,8 @@ All: 31/3337
 1004 Max Consecutive Ones III
 
 1456 Maximum Number of Vowels in a Substring of Given Length
+
+1657 Determine if Two Strings Are Close
 
 1679 Max Number of K-Sum Pairs
 

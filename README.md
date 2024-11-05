@@ -4,13 +4,13 @@
 
 (Updated 5.11.2024)
 
-Easy: 22/831
+Easy: 23/831
 
 Medium: 10/1746
 
 Hard: 0/760
 
-All: 32/3337
+All: 33/3337
 
 ## Easy
 
@@ -19,6 +19,8 @@ All: 32/3337
 94 Binary Tree Inorder Traversal
 
 136 Single Number
+
+182 Duplicate Emails
 
 283 Move Zeroes
 

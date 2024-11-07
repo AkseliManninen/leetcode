@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 5.11.2024)
+(Updated 7.11.2024)
 
-Easy: 23/831
+Easy: 25/831
 
 Medium: 10/1746
 
 Hard: 0/760
 
-All: 33/3337
+All: 35/3337
 
 ## Easy
 
@@ -18,19 +18,23 @@ All: 33/3337
 
 94 Binary Tree Inorder Traversal
 
+104 Maximum Depth of Binary Tree
+
 136 Single Number
 
 182 Duplicate Emails
 
 283 Move Zeroes
 
-0334 Increasing Triplet Subsequence
+334 Increasing Triplet Subsequence
 
 374 Guess Number Higher or Lower
 
 392 Is Subsequence
 
 643 Maximum Average Subarray I
+
+700 Search in a Binary Search Tree
 
 724 Find Pivot Index
 

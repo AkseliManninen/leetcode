@@ -4,13 +4,13 @@
 
 (Updated 7.11.2024)
 
-Easy: 25/831
+Easy: 26/831
 
 Medium: 10/1746
 
 Hard: 0/760
 
-All: 35/3337
+All: 36/3337
 
 ## Easy
 
@@ -23,6 +23,8 @@ All: 35/3337
 136 Single Number
 
 182 Duplicate Emails
+
+206 Reverse Linked List
 
 283 Move Zeroes
 

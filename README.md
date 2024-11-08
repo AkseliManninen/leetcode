@@ -4,13 +4,13 @@
 
 (Updated 8.11.2024)
 
-Easy: 27/831
+Easy: 28/831
 
 Medium: 12/1746
 
 Hard: 0/760
 
-All: 39/3337
+All: 40/3337
 
 ## Easy
 
@@ -57,6 +57,8 @@ All: 39/3337
 1207 Unique Number of Occurrences
 
 1732 Find the Highest Altitude
+
+1757 Recyclable and Low Fat Products
 
 1768 Merge Strings Alternately
 

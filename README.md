@@ -6,11 +6,11 @@
 
 Easy: 27/831
 
-Medium: 10/1746
+Medium: 11/1746
 
 Hard: 0/760
 
-All: 37/3337
+All: 38/3337
 
 ## Easy
 
@@ -21,6 +21,8 @@ All: 37/3337
 104 Maximum Depth of Binary Tree
 
 136 Single Number
+
+162 Find Peak Element
 
 182 Duplicate Emails
 

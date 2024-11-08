@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 7.11.2024)
+(Updated 8.11.2024)
 
-Easy: 26/831
+Easy: 27/831
 
 Medium: 10/1746
 
 Hard: 0/760
 
-All: 36/3337
+All: 37/3337
 
 ## Easy
 
@@ -43,6 +43,8 @@ All: 36/3337
 771 Jewels and Stones
 
 872 Leaf-Similar Trees
+
+933 Number of Recent Calls
 
 1071 Greatest Common Divisor of Strings
 

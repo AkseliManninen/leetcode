@@ -4,13 +4,13 @@
 
 (Updated 8.11.2024)
 
-Easy: 28/831
+Easy: 29/831
 
 Medium: 12/1746
 
 Hard: 0/760
 
-All: 40/3337
+All: 41/3337
 
 ## Easy
 
@@ -35,6 +35,8 @@ All: 40/3337
 374 Guess Number Higher or Lower
 
 392 Is Subsequence
+
+584 Find Customer Referee
 
 643 Maximum Average Subarray I
 

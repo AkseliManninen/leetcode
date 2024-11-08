@@ -6,11 +6,11 @@
 
 Easy: 27/831
 
-Medium: 11/1746
+Medium: 12/1746
 
 Hard: 0/760
 
-All: 38/3337
+All: 39/3337
 
 ## Easy
 
@@ -83,6 +83,8 @@ All: 38/3337
 238 Product of Array Except Self
 
 443 String Compression
+
+875 Koko Eating Bananas
 
 1004 Max Consecutive Ones III
 

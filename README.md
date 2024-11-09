@@ -4,13 +4,13 @@
 
 (Updated 9.11.2024)
 
-Easy: 30/831
+Easy: 31/831
 
 Medium: 14/1746
 
 Hard: 0/760
 
-All: 44/3337
+All: 45/3337
 
 ## Easy
 
@@ -57,6 +57,8 @@ All: 44/3337
 1108 Defanging an IP Address
 
 1137 N-th Tribonacci Number
+
+1148 Article Views I
 
 1207 Unique Number of Occurrences
 

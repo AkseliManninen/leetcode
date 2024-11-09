@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 8.11.2024)
+(Updated 9.11.2024)
 
 Easy: 29/831
 
-Medium: 12/1746
+Medium: 13/1746
 
 Hard: 0/760
 
-All: 41/3337
+All: 42/3337
 
 ## Easy
 
@@ -93,6 +93,8 @@ All: 41/3337
 1004 Max Consecutive Ones III
 
 1456 Maximum Number of Vowels in a Substring of Given Length
+
+1493 Longest Subarray of 1's After Deleting One Element
 
 1657 Determine if Two Strings Are Close
 

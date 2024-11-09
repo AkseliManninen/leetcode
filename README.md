@@ -4,13 +4,13 @@
 
 (Updated 9.11.2024)
 
-Easy: 31/831
+Easy: 32/831
 
 Medium: 14/1746
 
 Hard: 0/760
 
-All: 45/3337
+All: 46/3337
 
 ## Easy
 
@@ -61,6 +61,8 @@ All: 45/3337
 1148 Article Views I
 
 1207 Unique Number of Occurrences
+
+1683 Invalid Tweets
 
 1732 Find the Highest Altitude
 

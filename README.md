@@ -4,13 +4,13 @@
 
 (Updated 9.11.2024)
 
-Easy: 29/831
+Easy: 30/831
 
 Medium: 14/1746
 
 Hard: 0/760
 
-All: 43/3337
+All: 44/3337
 
 ## Easy
 
@@ -37,6 +37,8 @@ All: 43/3337
 392 Is Subsequence
 
 584 Find Customer Referee
+
+595 Big Countries
 
 643 Maximum Average Subarray I
 

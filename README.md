@@ -6,11 +6,11 @@
 
 Easy: 29/831
 
-Medium: 13/1746
+Medium: 14/1746
 
 Hard: 0/760
 
-All: 42/3337
+All: 43/3337
 
 ## Easy
 
@@ -99,5 +99,7 @@ All: 42/3337
 1657 Determine if Two Strings Are Close
 
 1679 Max Number of K-Sum Pairs
+
+2300 Successful Pairs of Spells and Potions
 
 ## Hard

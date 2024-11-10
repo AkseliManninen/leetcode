@@ -4,13 +4,13 @@
 
 (Updated 10.11.2024)
 
-Easy: 33/831
+Easy: 34/831
 
 Medium: 15/1746
 
 Hard: 0/760
 
-All: 48/3337
+All: 49/3337
 
 ## Easy
 
@@ -39,6 +39,8 @@ All: 48/3337
 584 Find Customer Referee
 
 595 Big Countries
+
+620 Not Boring Movies
 
 643 Maximum Average Subarray I
 

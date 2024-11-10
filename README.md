@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 9.11.2024)
+(Updated 10.11.2024)
 
 Easy: 33/831
 
-Medium: 14/1746
+Medium: 15/1746
 
 Hard: 0/760
 
-All: 47/3337
+All: 48/3337
 
 ## Easy
 
@@ -99,6 +99,8 @@ All: 47/3337
 875 Koko Eating Bananas
 
 1004 Max Consecutive Ones III
+
+1448 Count Good Nodes in Binary Tree
 
 1456 Maximum Number of Vowels in a Substring of Given Length
 

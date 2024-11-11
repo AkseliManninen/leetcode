@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 10.11.2024)
+(Updated 11.11.2024)
 
 Easy: 34/831
 
-Medium: 15/1746
+Medium: 16/1746
 
 Hard: 0/760
 
-All: 49/3337
+All: 50/3337
 
 ## Easy
 
@@ -113,5 +113,7 @@ All: 49/3337
 1679 Max Number of K-Sum Pairs
 
 2300 Successful Pairs of Spells and Potions
+
+2352 Equal Row and Column Pairs
 
 ## Hard

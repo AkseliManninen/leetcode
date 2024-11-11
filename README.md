@@ -4,13 +4,13 @@
 
 (Updated 11.11.2024)
 
-Easy: 34/831
+Easy: 35/831
 
 Medium: 16/1746
 
 Hard: 0/760
 
-All: 50/3337
+All: 51/3337
 
 ## Easy
 
@@ -53,6 +53,8 @@ All: 50/3337
 872 Leaf-Similar Trees
 
 933 Number of Recent Calls
+
+1068 Product Sales Analysis I
 
 1071 Greatest Common Divisor of Strings
 

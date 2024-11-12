@@ -4,13 +4,13 @@
 
 (Updated 12.11.2024)
 
-Easy: 35/831
+Easy: 36/831
 
 Medium: 17/1746
 
 Hard: 0/760
 
-All: 52/3337
+All: 53/3337
 
 ## Easy
 
@@ -67,6 +67,8 @@ All: 52/3337
 1207 Unique Number of Occurrences
 
 1378 Replace Employee ID With The Unique Identifier
+
+1581 Customer Who Visited but Did Not Make Any Transactions
 
 1683 Invalid Tweets
 

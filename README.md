@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 11.11.2024)
+(Updated 12.11.2024)
 
 Easy: 35/831
 
-Medium: 16/1746
+Medium: 17/1746
 
 Hard: 0/760
 
-All: 51/3337
+All: 52/3337
 
 ## Easy
 
@@ -77,6 +77,8 @@ All: 51/3337
 1768 Merge Strings Alternately
 
 2215 Find the Difference of Two Arrays
+
+2390 Removing Stars From a String
 
 2879 Display the First Three Rows
 

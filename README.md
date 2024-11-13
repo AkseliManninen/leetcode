@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 12.11.2024)
+(Updated 13.11.2024)
 
-Easy: 36/831
+Easy: 37/831
 
 Medium: 17/1746
 
 Hard: 0/760
 
-All: 53/3337
+All: 54/3337
 
 ## Easy
 
@@ -35,6 +35,8 @@ All: 53/3337
 374 Guess Number Higher or Lower
 
 392 Is Subsequence
+
+577 Employee Bonus
 
 584 Find Customer Referee
 

@@ -6,11 +6,11 @@
 
 Easy: 38/831
 
-Medium: 17/1746
+Medium: 18/1746
 
 Hard: 0/760
 
-All: 55/3337
+All: 56/3337
 
 ## Easy
 
@@ -51,6 +51,8 @@ All: 55/3337
 700 Search in a Binary Search Tree
 
 724 Find Pivot Index
+
+735 Asteroid Collision
 
 771 Jewels and Stones
 

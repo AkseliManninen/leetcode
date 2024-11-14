@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 13.11.2024)
+(Updated 14.11.2024)
 
-Easy: 37/831
+Easy: 38/831
 
 Medium: 17/1746
 
 Hard: 0/760
 
-All: 54/3337
+All: 55/3337
 
 ## Easy
 
@@ -25,6 +25,8 @@ All: 54/3337
 162 Find Peak Element
 
 182 Duplicate Emails
+
+197 Rising Temperature
 
 206 Reverse Linked List
 

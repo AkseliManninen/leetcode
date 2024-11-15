@@ -6,11 +6,11 @@
 
 Easy: 38/831
 
-Medium: 19/1746
+Medium: 20/1746
 
 Hard: 0/760
 
-All: 56/3337
+All: 58/3337
 
 ## Easy
 
@@ -107,6 +107,8 @@ All: 56/3337
 198 House Robber
 
 238 Product of Array Except Self
+
+328 Odd Even Linked List
 
 443 String Compression
 

@@ -22,8 +22,6 @@ All: 58/3337
 
 136 Single Number
 
-162 Find Peak Element
-
 182 Duplicate Emails
 
 197 Rising Temperature
@@ -31,8 +29,6 @@ All: 58/3337
 206 Reverse Linked List
 
 283 Move Zeroes
-
-334 Increasing Triplet Subsequence
 
 374 Guess Number Higher or Lower
 
@@ -51,8 +47,6 @@ All: 58/3337
 700 Search in a Binary Search Tree
 
 724 Find Pivot Index
-
-735 Asteroid Collision
 
 771 Jewels and Stones
 
@@ -86,8 +80,6 @@ All: 58/3337
 
 2215 Find the Difference of Two Arrays
 
-2390 Removing Stars From a String
-
 2879 Display the First Three Rows
 
 2942 Find Words Containing Character
@@ -104,13 +96,19 @@ All: 58/3337
 
 151 Reverse Words in a String
 
+162 Find Peak Element
+
 198 House Robber
 
 238 Product of Array Except Self
 
 328 Odd Even Linked List
 
+334 Increasing Triplet Subsequence
+
 443 String Compression
+
+735 Asteroid Collision
 
 875 Koko Eating Bananas
 
@@ -131,5 +129,7 @@ All: 58/3337
 2300 Successful Pairs of Spells and Potions
 
 2352 Equal Row and Column Pairs
+
+2390 Removing Stars From a String
 
 ## Hard

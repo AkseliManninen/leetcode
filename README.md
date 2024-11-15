@@ -2,11 +2,11 @@
 
 ## Solved problems
 
-(Updated 14.11.2024)
+(Updated 15.11.2024)
 
 Easy: 38/831
 
-Medium: 18/1746
+Medium: 19/1746
 
 Hard: 0/760
 
@@ -123,6 +123,8 @@ All: 56/3337
 1657 Determine if Two Strings Are Close
 
 1679 Max Number of K-Sum Pairs
+
+2095 Delete the Middle Node of a Linked List
 
 2300 Successful Pairs of Spells and Potions
 

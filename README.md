@@ -4,13 +4,13 @@
 
 (Updated 16.11.2024)
 
-Easy: 39/831
+Easy: 40/831
 
 Medium: 20/1746
 
 Hard: 0/760
 
-All: 59/3337
+All: 60/3337
 
 ## Easy
 
@@ -85,6 +85,8 @@ All: 59/3337
 2879 Display the First Three Rows
 
 2942 Find Words Containing Character
+
+3110 Score of a String
 
 3146 Permutation Difference between Two Strings
 

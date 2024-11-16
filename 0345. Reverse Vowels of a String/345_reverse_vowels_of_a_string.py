@@ -1,4 +1,5 @@
-# Runtime 1644 ms --> This solution is not efficient.
+# Time comlexity: O(n)
+# Spece complexity: O(n)
 
 class Solution(object):
     def reverseVowels(self, s):

@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 15.11.2024)
+(Updated 16.11.2024)
 
-Easy: 38/831
+Easy: 39/831
 
 Medium: 20/1746
 
 Hard: 0/760
 
-All: 58/3337
+All: 59/3337
 
 ## Easy
 
@@ -29,6 +29,8 @@ All: 58/3337
 206 Reverse Linked List
 
 283 Move Zeroes
+
+345 Reverse Vowels of a String
 
 374 Guess Number Higher or Lower
 

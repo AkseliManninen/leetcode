@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 16.11.2024)
+(Updated 17.11.2024)
 
-Easy: 40/831
+Easy: 41/831
 
 Medium: 20/1746
 
 Hard: 0/760
 
-All: 60/3337
+All: 61/3337
 
 ## Easy
 
@@ -83,6 +83,8 @@ All: 60/3337
 2215 Find the Difference of Two Arrays
 
 2879 Display the First Three Rows
+
+2884 Modify Columns
 
 2942 Find Words Containing Character
 

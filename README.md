@@ -4,13 +4,13 @@
 
 (Updated 19.11.2024)
 
-Easy: 43/831
+Easy: 44/831
 
 Medium: 20/1746
 
 Hard: 0/760
 
-All: 63/3337
+All: 64/3337
 
 ## Easy
 
@@ -71,6 +71,8 @@ All: 63/3337
 1378 Replace Employee ID With The Unique Identifier
 
 1581 Customer Who Visited but Did Not Make Any Transactions
+
+1667 Fix Names in a Table
 
 1683 Invalid Tweets
 

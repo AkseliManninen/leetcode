@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 18.11.2024)
+(Updated 19.11.2024)
 
-Easy: 42/831
+Easy: 43/831
 
 Medium: 20/1746
 
 Hard: 0/760
 
-All: 62/3337
+All: 63/3337
 
 ## Easy
 
@@ -81,6 +81,8 @@ All: 62/3337
 1768 Merge Strings Alternately
 
 2215 Find the Difference of Two Arrays
+
+2418 Sort the People
 
 2469 Convert the Temperature
 

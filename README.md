@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 19.11.2024)
+(Updated 20.11.2024)
 
 Easy: 44/831
 
-Medium: 20/1746
+Medium: 21/1746
 
 Hard: 0/760
 
-All: 64/3337
+All: 65/3337
 
 ## Easy
 
@@ -117,6 +117,8 @@ All: 64/3337
 328 Odd Even Linked List
 
 334 Increasing Triplet Subsequence
+
+394. Decode String
 
 443 String Compression
 

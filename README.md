@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 20.11.2024)
+(Updated 21.11.2024)
 
 Easy: 44/831
 
-Medium: 21/1746
+Medium: 22/1746
 
 Hard: 0/760
 
-All: 65/3337
+All: 66/3337
 
 ## Easy
 
@@ -118,9 +118,11 @@ All: 65/3337
 
 334 Increasing Triplet Subsequence
 
-394. Decode String
+394 Decode String
 
 443 String Compression
+
+649 Dota2 Senate
 
 735 Asteroid Collision
 

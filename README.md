@@ -4,13 +4,13 @@
 
 (Updated 21.11.2024)
 
-Easy: 44/831
+Easy: 45/831
 
 Medium: 22/1746
 
 Hard: 0/760
 
-All: 66/3337
+All: 67/3337
 
 ## Easy
 
@@ -71,6 +71,8 @@ All: 66/3337
 1378 Replace Employee ID With The Unique Identifier
 
 1581 Customer Who Visited but Did Not Make Any Transactions
+
+1661 Average Time of Process per Machine
 
 1667 Fix Names in a Table
 

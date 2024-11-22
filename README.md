@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 21.11.2024)
+(Updated 22.11.2024)
 
 Easy: 45/831
 
-Medium: 22/1746
+Medium: 23/1746
 
 Hard: 0/760
 
-All: 67/3337
+All: 68/3337
 
 ## Easy
 
@@ -145,6 +145,8 @@ All: 67/3337
 2095 Delete the Middle Node of a Linked List
 
 2300 Successful Pairs of Spells and Potions
+
+2130 Maximum Twin Sum of a Linked List
 
 2352 Equal Row and Column Pairs
 

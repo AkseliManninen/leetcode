@@ -4,13 +4,13 @@
 
 (Updated 22.11.2024)
 
-Easy: 45/831
+Easy: 46/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 68/3337
+All: 69/3337
 
 ## Easy
 
@@ -67,6 +67,8 @@ All: 68/3337
 1148 Article Views I
 
 1207 Unique Number of Occurrences
+
+1280 Students and Examinations
 
 1378 Replace Employee ID With The Unique Identifier
 

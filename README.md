@@ -4,13 +4,13 @@
 
 (Updated 22.11.2024)
 
-Easy: 46/831
+Easy: 47/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 69/3337
+All: 70/3337
 
 ## Easy
 
@@ -87,6 +87,8 @@ All: 69/3337
 1768 Merge Strings Alternately
 
 2215 Find the Difference of Two Arrays
+
+2356 Number of Unique Subjects Taught by Each Teacher
 
 2418 Sort the People
 

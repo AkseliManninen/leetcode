@@ -1,4 +1,5 @@
-# Runtime: 95 ms
+# Time complexity: O(n)
+# Space complexity: O(1)
 
 class Solution(object):
     def maxArea(self, height):

@@ -1,4 +1,5 @@
-# Runtime 19 ms
+# Time Complexity: O(n * m)
+# Space Complexity: O(1)
 
 class Solution(object):
     def strStr(self, haystack, needle):

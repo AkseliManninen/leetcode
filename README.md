@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 22.11.2024)
+(Updated 25.11.2024)
 
-Easy: 47/831
+Easy: 48/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 70/3337
+All: 71/3337
 
 ## Easy
 
@@ -23,6 +23,8 @@ All: 70/3337
 136 Single Number
 
 182 Duplicate Emails
+
+196 Delete Duplicate Emails
 
 197 Rising Temperature
 

@@ -4,13 +4,13 @@
 
 (Updated 29.11.2024)
 
-Easy: 50/831
+Easy: 51/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 73/3337
+All: 74/3337
 
 ## Easy
 
@@ -77,6 +77,8 @@ All: 73/3337
 1378 Replace Employee ID With The Unique Identifier
 
 1581 Customer Who Visited but Did Not Make Any Transactions
+
+1633 Percentage of Users Attended a Contest
 
 1661 Average Time of Process per Machine
 

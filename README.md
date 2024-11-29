@@ -4,13 +4,13 @@
 
 (Updated 29.11.2024)
 
-Easy: 49/831
+Easy: 50/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 72/3337
+All: 73/3337
 
 ## Easy
 
@@ -61,6 +61,8 @@ All: 72/3337
 1068 Product Sales Analysis I
 
 1071 Greatest Common Divisor of Strings
+
+1075 Project Employees I
 
 1108 Defanging an IP Address
 

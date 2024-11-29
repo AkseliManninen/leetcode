@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 25.11.2024)
+(Updated 29.11.2024)
 
-Easy: 48/831
+Easy: 49/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 71/3337
+All: 72/3337
 
 ## Easy
 
@@ -99,6 +99,8 @@ All: 71/3337
 2879 Display the First Three Rows
 
 2884 Modify Columns
+
+2885 Rename Columns
 
 2942 Find Words Containing Character
 

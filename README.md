@@ -4,13 +4,13 @@
 
 (Updated 30.11.2024)
 
-Easy: 52/831
+Easy: 53/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 75/3337
+All: 76/3337
 
 ## Easy
 
@@ -77,6 +77,8 @@ All: 75/3337
 1280 Students and Examinations
 
 1378 Replace Employee ID With The Unique Identifier
+
+1517 Find Users With Valid E-Mails
 
 1581 Customer Who Visited but Did Not Make Any Transactions
 

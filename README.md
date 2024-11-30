@@ -4,13 +4,13 @@
 
 (Updated 30.11.2024)
 
-Easy: 53/831
+Easy: 54/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 76/3337
+All: 77/3337
 
 ## Easy
 
@@ -79,6 +79,8 @@ All: 76/3337
 1378 Replace Employee ID With The Unique Identifier
 
 1517 Find Users With Valid E-Mails
+
+1527 Patients With a Condition
 
 1581 Customer Who Visited but Did Not Make Any Transactions
 

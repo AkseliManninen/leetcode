@@ -4,13 +4,13 @@
 
 (Updated 30.11.2024)
 
-Easy: 54/831
+Easy: 55/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 77/3337
+All: 78/3337
 
 ## Easy
 
@@ -75,6 +75,8 @@ All: 77/3337
 1207 Unique Number of Occurrences
 
 1280 Students and Examinations
+
+1327 List the Products Ordered in a Period
 
 1378 Replace Employee ID With The Unique Identifier
 

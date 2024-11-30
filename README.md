@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 29.11.2024)
+(Updated 30.11.2024)
 
-Easy: 51/831
+Easy: 52/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 74/3337
+All: 75/3337
 
 ## Easy
 
@@ -67,6 +67,8 @@ All: 74/3337
 1108 Defanging an IP Address
 
 1137 N-th Tribonacci Number
+
+1141 User Activity for the Past 30 Days I
 
 1148 Article Views I
 

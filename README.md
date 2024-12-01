@@ -2,9 +2,9 @@
 
 ## Solved problems
 
-(Updated 30.11.2024)
+(Updated 1.12.2024)
 
-Easy: 55/831
+Easy: 56/831
 
 Medium: 23/1746
 
@@ -93,6 +93,8 @@ All: 78/3337
 1667 Fix Names in a Table
 
 1683 Invalid Tweets
+
+1729 Find Followers Count
 
 1732 Find the Highest Altitude
 

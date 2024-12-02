@@ -4,13 +4,13 @@
 
 (Updated 2.12.2024)
 
-Easy: 59/831
+Easy: 60/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 81/3337
+All: 82/3337
 
 ## Easy
 
@@ -83,6 +83,8 @@ All: 81/3337
 1327 List the Products Ordered in a Period
 
 1378 Replace Employee ID With The Unique Identifier
+
+1484 Group Sold Products By The Date
 
 1517 Find Users With Valid E-Mails
 

@@ -4,13 +4,13 @@
 
 (Updated 2.12.2024)
 
-Easy: 58/831
+Easy: 59/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 80/3337
+All: 81/3337
 
 ## Easy
 
@@ -45,6 +45,8 @@ All: 80/3337
 595 Big Countries
 
 596 Classes More Than 5 Students
+
+619 Biggest Single Number
 
 620 Not Boring Movies
 

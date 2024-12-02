@@ -4,13 +4,13 @@
 
 (Updated 2.12.2024)
 
-Easy: 57/831
+Easy: 58/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 79/3337
+All: 80/3337
 
 ## Easy
 
@@ -43,6 +43,8 @@ All: 79/3337
 584 Find Customer Referee
 
 595 Big Countries
+
+596 Classes More Than 5 Students
 
 620 Not Boring Movies
 

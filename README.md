@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 1.12.2024)
+(Updated 2.12.2024)
 
-Easy: 56/831
+Easy: 57/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 78/3337
+All: 79/3337
 
 ## Easy
 
@@ -101,6 +101,8 @@ All: 78/3337
 1757 Recyclable and Low Fat Products
 
 1768 Merge Strings Alternately
+
+1978 Employees Whose Manager Left the Company
 
 2215 Find the Difference of Two Arrays
 

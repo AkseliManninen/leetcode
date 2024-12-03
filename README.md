@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 2.12.2024)
+(Updated 3.12.2024)
 
-Easy: 60/831
+Easy: 61/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 82/3337
+All: 83/3337
 
 ## Easy
 
@@ -61,6 +61,8 @@ All: 82/3337
 872 Leaf-Similar Trees
 
 933 Number of Recent Calls
+
+1045 Customers Who Bought All Products
 
 1068 Product Sales Analysis I
 

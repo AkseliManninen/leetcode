@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 3.12.2024)
+(Updated 4.12.2024)
 
-Easy: 61/831
+Easy: 62/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 83/3337
+All: 85/3337
 
 ## Easy
 
@@ -109,6 +109,8 @@ All: 83/3337
 1757 Recyclable and Low Fat Products
 
 1768 Merge Strings Alternately
+
+1789 Primary Department for Each Employee
 
 1978 Employees Whose Manager Left the Company
 

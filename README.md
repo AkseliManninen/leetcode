@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 4.12.2024)
+(Updated 6.12.2024)
 
-Easy: 62/831
+Easy: 63/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 85/3337
+All: 86/3337
 
 ## Easy
 
@@ -45,6 +45,8 @@ All: 85/3337
 595 Big Countries
 
 596 Classes More Than 5 Students
+
+610 Triangle Judgement
 
 619 Biggest Single Number
 

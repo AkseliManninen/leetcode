@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 6.12.2024)
+(Updated 7.12.2024)
 
-Easy: 63/831
+Easy: 64/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 86/3337
+All: 87/3337
 
 ## Easy
 
@@ -129,6 +129,8 @@ All: 86/3337
 2884 Modify Columns
 
 2885 Rename Columns
+
+2894 Divisible and Non-divisible Sums Difference
 
 2942 Find Words Containing Character
 

@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 7.12.2024)
+(Updated 8.12.2024)
 
-Easy: 64/831
+Easy: 65/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 87/3337
+All: 88/3337
 
 ## Easy
 
@@ -123,6 +123,8 @@ All: 87/3337
 2418 Sort the People
 
 2469 Convert the Temperature
+
+2769 Find the Maximum Achievable Number
 
 2879 Display the First Three Rows
 

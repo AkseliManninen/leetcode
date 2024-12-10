@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 8.12.2024)
+(Updated 10.12.2024)
 
-Easy: 65/831
+Easy: 66/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 88/3337
+All: 89/3337
 
 ## Easy
 
@@ -105,6 +105,8 @@ All: 88/3337
 1683 Invalid Tweets
 
 1729 Find Followers Count
+
+1731 The Number of Employees Which Report to Each Employee
 
 1732 Find the Highest Altitude
 

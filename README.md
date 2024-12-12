@@ -2,15 +2,15 @@
 
 ## Solved problems
 
-(Updated 10.12.2024)
+(Updated 12.12.2024)
 
-Easy: 66/831
+Easy: 67/831
 
 Medium: 23/1746
 
 Hard: 0/760
 
-All: 89/3337
+All: 90/3337
 
 ## Easy
 
@@ -81,6 +81,8 @@ All: 89/3337
 1148 Article Views I
 
 1207 Unique Number of Occurrences
+
+1251 Average Selling Price
 
 1280 Students and Examinations
 

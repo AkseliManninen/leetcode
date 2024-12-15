@@ -1,11 +1,17 @@
 # 1789. Primary Department for Each Employee
 
 +---------------+---------+
+
 | Column Name | Type |
+
 +---------------+---------+
+
 | employee_id | int |
+
 | department_id | int |
+
 | primary_flag | varchar |
+
 +---------------+---------+
 
 (employee_id, department_id) is the primary key (combination of columns with unique values) for this table.
@@ -29,26 +35,43 @@ Input:
 Employee table:
 
 +-------------+---------------+--------------+
+
 | employee_id | department_id | primary_flag |
+
 +-------------+---------------+--------------+
+
 | 1 | 1 | N |
+
 | 2 | 1 | Y |
+
 | 2 | 2 | N |
+
 | 3 | 3 | N |
+
 | 4 | 2 | N |
+
 | 4 | 3 | Y |
+
 | 4 | 4 | N |
+
 +-------------+---------------+--------------+
 
 Output:
 
 +-------------+---------------+
+
 | employee_id | department_id |
+
 +-------------+---------------+
+
 | 1 | 1 |
+
 | 2 | 1 |
+
 | 3 | 3 |
+
 | 4 | 3 |
+
 +-------------+---------------+
 
 Explanation:

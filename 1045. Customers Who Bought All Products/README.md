@@ -1,10 +1,15 @@
 # 1045. Customers Who Bought All Products
 
 +-------------+---------+
+
 | Column Name | Type |
+
 +-------------+---------+
+
 | customer_id | int |
+
 | product_key | int |
+
 +-------------+---------+
 
 This table may contain duplicates rows.
@@ -16,9 +21,13 @@ product_key is a foreign key (reference column) to Product table.
 Table: Product
 
 +-------------+---------+
+
 | Column Name | Type |
+
 +-------------+---------+
+
 | product_key | int |
+
 +-------------+---------+
 
 product_key is the primary key (column with unique values) for this table.
@@ -36,31 +45,49 @@ Input:
 Customer table:
 
 +-------------+-------------+
+
 | customer_id | product_key |
+
 +-------------+-------------+
+
 | 1 | 5 |
+
 | 2 | 6 |
+
 | 3 | 5 |
+
 | 3 | 6 |
+
 | 1 | 6 |
+
 +-------------+-------------+
 
 Product table:
 
 +-------------+
+
 | product_key |
+
 +-------------+
+
 | 5 |
+
 | 6 |
+
 +-------------+
 
 Output:
 
 +-------------+
+
 | customer_id |
+
 +-------------+
+
 | 1 |
+
 | 3 |
+
 +-------------+
 
 Explanation:

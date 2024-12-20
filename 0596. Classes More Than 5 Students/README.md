@@ -1,10 +1,15 @@
 # 596. Classes More Than 5 Students
 
 +-------------+---------+
+
 | Column Name | Type |
+
 +-------------+---------+
+
 | student | varchar |
+
 | class | varchar |
+
 +-------------+---------+
 
 (student, class) is the primary key (combination of columns with unique values) for this table.
@@ -24,26 +29,43 @@ Input:
 Courses table:
 
 +---------+----------+
+
 | student | class |
+
 +---------+----------+
+
 | A | Math |
+
 | B | English |
+
 | C | Math |
+
 | D | Biology |
+
 | E | Math |
+
 | F | Computer |
+
 | G | Math |
+
 | H | Math |
+
 | I | Math |
+
 +---------+----------+
 
 Output:
 
 +---------+
+
 | class |
+
 +---------+
+
 | Math |
+
 +---------+
+
 
 Explanation:
 
